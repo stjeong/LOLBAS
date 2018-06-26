@@ -5,7 +5,7 @@
     description="Scripting.Dictionary"
     progid="Scripting.Dictionary"
     version="1"
-    classid="{AAAA1111-0000-0000-0000-0000FEEDACDC}"
+    classid="{00000000-0000-0000-0000-0000000000FF}"
     remotable="true"
 	>
 </registration>
